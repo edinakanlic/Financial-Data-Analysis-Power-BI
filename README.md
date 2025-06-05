@@ -65,7 +65,7 @@ This report answers the following key business questions:
   - `Total Sales = SUM(Sales)`
   - `Total COGS = SUM(COGS)`
   - `Total Margin = SUM(Profit)`
-  - `Profit % = [Total Margin] / [Total COGS]
+  - `Profit % = [Total Margin] / [Total COGS]`
 
 ### 3. Report Design
 - **Bar and Column Charts** for country and product sales  
